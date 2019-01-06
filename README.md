@@ -30,3 +30,7 @@ This is a repository for my new deployed server.
 - .git
 - postgresql
 - Google OAuth.
+
+## LinuxKey location
+- Please use (LinuxKey)[https://github.com/walidzakaria/LinuxServer/blob/master/.ssh/linuxKey] to access ```SSH``` of the server.
+- The key password is mentioned in the subbmission note!
