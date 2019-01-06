@@ -23,6 +23,7 @@ This is a repository for my new deployed server.
 11. I created and configured new user to ```postgresql``` with full access permission.
 12. I modified my ```__ini__.py``` file to connect to ```postgresql``` database instead of ```sqllite``` one.
 13. I added the new ip to ```Google OAuth```.
+14. I have also diabled the root from loging.
 
 ## 3rd Party Resources
 - Apache.
